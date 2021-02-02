@@ -1,0 +1,94 @@
+{
+  "main": {
+    "name": "siham heddi",
+    "occupation": "student,i want to be mearn stack developer",
+    "description": "i like watching action adventure movie learn foreign languages coding",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am siham! You might also know me as iron ant . I've been coding for over 2 years.",
+    "contactmessage": "Get in touch with me !",
+    "email": "donyadina994@gmail.com",
+    "phone": "+213 1234567899",
+    "address": {
+      "street": "xxxxx",
+      "city": "algiers",
+      "state": "algeirs",
+      "zip": "200"
+    },
+    "website": "https://www.xx.com/course",
+    "resumedownload": "/cv.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/iwishtobe.devweb.9/",
+        "className": "fa fa-facebook"
+      },
+  
+      {
+        "name": "github",
+        "url": "https://github.com/siham2019",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "university hassiba ben bouali chlef - uhbc",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "october 2020",
+        "description": "Graduated with fourth Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "no",
+        "title": "no",
+        "years": "no",
+        "description": "no"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "java",
+        "level": "30%"
+      },
+      {
+        "name": "css",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      }
+   
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "dardich for chating (reactjs)",
+        "category": "",
+        "image": "c.png",
+        "url": ""
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "siham is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "barbe bobo"
+      },
+      {
+        "text": "Learning with siham has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
